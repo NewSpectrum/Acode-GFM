@@ -17,27 +17,3 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-
-  # Maintain dependencies for PIP
-  - package-ecosystem: "pip"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # Maintain dependencies for PIP-Env
-  - package-ecosystem: "pipenv"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # Maintain dependencies for PIP-Compile
-  - package-ecosystem: "pip-compile"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # Maintain dependencies for NuGet
-  - package-ecosystem: "nuget"
-    directory: "/"
-    schedule:
-      interval: "weekly"
