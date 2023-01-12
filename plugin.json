@@ -1,5 +1,5 @@
 {
-  "id": "acode.plugin",
+  "id": "acode.plugin.gfm",
   "name": "GitHub-Flavored Markdown",
   "main": "dist/main.js",
   "version": "1.0.0",
