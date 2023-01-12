@@ -1,2 +1,15 @@
+# Always Track:
+!README.*
+!*.README.*
+
+# Ignore the following package data
 node_modules
 yarn.lock
+
+# Temporary Files & Directories
+*.tmp.*/*
+*.tmp/*
+tmp/*
+*.tmp.*
+tmp.*
+*.tmp
