@@ -7,9 +7,9 @@ node_modules
 yarn.lock
 
 # Temporary Files & Directories
-*.tmp.*/*
-*.tmp/*
-tmp/*
-*.tmp.*
-tmp.*
-*.tmp
+# *.tmp.*/*
+# *.tmp/*
+# tmp/*
+# *.tmp.*
+# tmp.*
+# *.tmp
