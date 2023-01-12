@@ -1,14 +1,14 @@
 {
   "id": "acode.plugin",
-  "name": "Plugin",
+  "name": "GitHub-Flavored Markdown",
   "main": "dist/main.js",
   "version": "1.0.0",
-  "readme": "readme.md",
-  "icon": "icon.png",
+  "readme": "README.md",
+  "icon": "acode-gfm-icon.svg",
   "files": [],
   "author": {
-    "name": "",
-    "email": "",
-    "github": ""
+    "name": "Richard Joubert",
+    "email": "support@NewSpectrum.dev",
+    "github": "NewSpectrum"
   }
 }
