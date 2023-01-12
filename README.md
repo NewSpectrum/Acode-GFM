@@ -1,6 +1,6 @@
-# acode-plugin
+# GitHub-Flavored Markdown
 
-To create plugin for Acode editor use this template. To use this template create a github repository and add `https://github.com/deadlyjack/acode-plugin` as template.
+Use Acode to preview your Markdown files as if you viewing them on [GitHub](https://github.com/).
 
 <details open>
 <summary><h2 style="display:inline;" id="toc">Table of Contents</h2></summary>
