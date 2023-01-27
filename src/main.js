@@ -1,14 +1,16 @@
 import plugin from '../plugin.json';
 
+
+
 class AcodePlugin {
 
-  async init() {
+	async init() {
+		
+	}
 
-  }
-
-  async destroy() {
-
-  }
+	async destroy() {
+		
+	}
 }
 
 if (window.acode) {
