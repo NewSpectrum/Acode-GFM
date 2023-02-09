@@ -1,14 +1,14 @@
 {
-  "id": "acode.plugin.gfm",
-  "name": "GitHub-Flavored Markdown",
-  "main": "dist/main.js",
-  "version": "1.0.0",
-  "readme": "README.md",
-  "icon": "acode-gfm-icon.svg",
-  "files": [],
-  "author": {
-    "name": "Richard Joubert",
-    "email": "support@NewSpectrum.dev",
-    "github": "NewSpectrum"
-  }
+	"id": "acode.plugin.gfm",
+	"name": "GitHub-Flavored Markdown",
+	"main": "dist/main.js",
+	"version": "0.1.0",
+	"readme": "README.md",
+	"icon": "acode-gfm-icon.svg",
+	"files": [],
+	"author": {
+		"name": "Richard Joubert",
+		"email": "support@NewSpectrum.dev",
+		"github": "NewSpectrum"
+	}
 }
