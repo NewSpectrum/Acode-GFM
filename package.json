@@ -7,7 +7,7 @@
   "author": "Richard Joubert <rjoubert@nsd.team>",
   "license": "MIT",
   "dependencies": {
-    "html-tag-js": "^1.1.35"
+    "html-tag-js": "^1.1.36"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",

@@ -2047,10 +2047,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-html-tag-js@^1.1.35:
-  version "1.1.35"
-  resolved "https://registry.yarnpkg.com/html-tag-js/-/html-tag-js-1.1.35.tgz#70d465e630454b67bd61c151578c6f49db4c4a45"
-  integrity sha512-IwWH6VkmqQYeDY32T5l/lNdrf6TPtnZaK85ZXImz8+JMMonk9GKyyjWnUcdaZ6WwGcHhGSbyLuqBmSEaBN3r2w==
+html-tag-js@^1.1.36:
+  version "1.1.36"
+  resolved "https://registry.yarnpkg.com/html-tag-js/-/html-tag-js-1.1.36.tgz#39d8a722a92d4b77072e3438d1fac8d82b691968"
+  integrity sha512-8AqoJJNKIuuEn4si4sJKIBqeee/pdRtuRorYwHLlejHlqhY28ge7uyUGCU9qdbyQvtmpMnQV906BSBmrSdlr4Q==
 
 http-auth@3.1.x:
   version "3.1.3"
