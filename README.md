@@ -11,5 +11,7 @@ Use Acode to preview your Markdown files as if you viewing them on [GitHub](http
 
 </details>
 
-## Getting Started
+
+
+# Getting Started
 
