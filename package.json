@@ -12,7 +12,8 @@
 		"@types/mdast": "^3.0.0",
 		"mdast-util-gfm": "^2.0.0",
 	    "micromark-extension-gfm": "^2.0.0",
-	    "unified": "^10.0.0"
+	    "unified": "^10.0.0",
+	    "to-vfile": "^7.0.0"
     },
     "devDependencies": {
         "@babel/cli": "^7.20.7",
@@ -33,5 +34,12 @@
     "resolutions": {
         "terser": ">=5.14.2 ",
         "glob-parent": ">=5.1.2"
+    },
+    "eslintConfig": {
+        "env": {
+            "browser": true,
+            "node": true,
+            "es8": true
+        }
     }
 }

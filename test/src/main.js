@@ -1,3 +1,5 @@
+/* eslint-env node, es8 */
+
 import { read } from "to-vfile";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
