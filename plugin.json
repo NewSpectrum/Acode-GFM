@@ -5,7 +5,10 @@
 	"version": "0.1.0",
 	"readme": "README.md",
 	"icon": "acode-gfm-icon.svg",
-	"files": [],
+	"files": [
+		"./assets/styles/css/gh-style.css",
+		"./src/gfm-base.js"
+	],
 	"author": {
 		"name": "Richard Joubert",
 		"email": "support@NewSpectrum.dev",
