@@ -2146,10 +2146,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-html-tag-js@^1.1.36:
-  version "1.1.36"
-  resolved "https://registry.yarnpkg.com/html-tag-js/-/html-tag-js-1.1.36.tgz#39d8a722a92d4b77072e3438d1fac8d82b691968"
-  integrity sha512-8AqoJJNKIuuEn4si4sJKIBqeee/pdRtuRorYwHLlejHlqhY28ge7uyUGCU9qdbyQvtmpMnQV906BSBmrSdlr4Q==
+html-tag-js@^1.1.40:
+  version "1.1.40"
+  resolved "https://registry.yarnpkg.com/html-tag-js/-/html-tag-js-1.1.40.tgz#afc6eabee1e9c9c0074f5eea8907a9b14e7e19b2"
+  integrity sha512-UgqFMbBB3KHyA3Pws2jBaY4AWnKNh8prbcizIFN8brafpG2r968AZ1iAGWA+G8HIASIDiyIH/7K0JkqA+5KUQA==
 
 http-auth@3.1.x:
   version "3.1.3"
